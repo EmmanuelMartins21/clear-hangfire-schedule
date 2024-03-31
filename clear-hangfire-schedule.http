@@ -1,0 +1,6 @@
+@clear_hangfire_schedule_HostAddress = http://localhost:5032
+
+GET {{clear_hangfire_schedule_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
